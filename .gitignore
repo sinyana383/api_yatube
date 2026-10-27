@@ -150,3 +150,9 @@ static/
 yatube_api/posts/static/
 media/
 
+
+# Claude Code
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.mcp.json
